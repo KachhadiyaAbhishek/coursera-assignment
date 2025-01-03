@@ -15,13 +15,13 @@ The assignments are organized into modules (m-2, m-3, etc.) and demonstrate vari
 
 ## How to Use
 
-Prerequisites
+**Prerequisites**
  - A modern web browser (e.g., Chrome, Firefox, Edge).
  - (Optional) A local web server for advanced functionality.
 
-Steps
+**Steps**
  - Clone or download this repository.
- - git clone 
+ - git clone <https://github.com/KachhadiyaAbhishek/coursera-assignment.git>
  - Navigate to the desired module folder (e.g., m-2, m-3).
  - Open the index.html file in VS code or any editor and view the assignment.
  - Run index.html file.
@@ -31,26 +31,26 @@ Steps
 **Module 2**
 - **Description**: Demonstrates basic HTML and CSS concepts.
 - **Files**:
- - index.html: The main webpage.
- - css/style.css: Styling for the webpage.
+  - index.html: The main webpage.
+  - css/style.css: Styling for the webpage.
 
 **Module 3**
 - **Description**: Focuses on advanced CSS techniques.
 - **Files**:
- - index.html: The main webpage.
- - style.css: Styling for the webpage.
+  - index.html: The main webpage.
+  - style.css: Styling for the webpage.
 
 **Module 4**
 - **Description**: Introduces basic JavaScript functionality.
 - **Files**:
- - index.html: The main webpage.
- - script.js: JavaScript logic for interactive elements.
+  - index.html: The main webpage.
+  - script.js: JavaScript logic for interactive elements.
 
 **Module 5**
 - **Description**: Implements Bootstrap for responsive design.
 - **Files**:
- - index.html: The main webpage.
- - css/: Folder containing Bootstrap stylesheets.
+  - index.html: The main webpage.
+  - css/: Folder containing Bootstrap stylesheets.
 
 ## Technologies Used
 
@@ -59,9 +59,4 @@ Steps
 **JavaScript**: Interactivity and dynamic features.
 **Bootstrap**: Responsive design framework (used in Module 5).
 
-Feel free to fork the repository, make improvements, and submit pull requests. Contributions are welcome!
-
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
