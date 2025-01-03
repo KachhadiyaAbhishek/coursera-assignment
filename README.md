@@ -4,7 +4,7 @@ This repository contains assignments for the Coursera course. Each assignment fo
 
 ## Table of Contents
 
-- Overview
+- <Overview>
 - How to Use
 - Assignment Details
 - Technologies Used
@@ -56,9 +56,9 @@ The assignments are organized into modules (m-2, m-3, etc.) and demonstrate vari
 
 ## Technologies Used
 
-**HTML**: Structure of the webpages.
-**CSS**: Styling and layout.
-**JavaScript**: Interactivity and dynamic features.
-**Bootstrap**: Responsive design framework (used in Module 5).
+- **HTML**: Structure of the webpages.
+- **CSS**: Styling and layout.
+- **JavaScript**: Interactivity and dynamic features.
+- **Bootstrap**: Responsive design framework (used in Module 5).
 
 
