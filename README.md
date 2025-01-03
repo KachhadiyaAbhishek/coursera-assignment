@@ -4,10 +4,10 @@ This repository contains assignments for the Coursera course. Each assignment fo
 
 ## Table of Contents
 
-Overview
-How to Use
-Assignment Details
-Technologies Used
+- Overview
+- How to Use
+- Assignment Details
+- Technologies Used
 
 ## Overview
 
