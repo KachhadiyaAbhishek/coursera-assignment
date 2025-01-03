@@ -50,7 +50,9 @@ The assignments are organized into modules (m-2, m-3, etc.) and demonstrate vari
 - **Description**: Implements Bootstrap for responsive design.
 - **Files**:
   - index.html: The main webpage.
-  - css/: Folder containing Bootstrap stylesheets.
+  - javascript file
+  - css file
+  - svg file
 
 ## Technologies Used
 
