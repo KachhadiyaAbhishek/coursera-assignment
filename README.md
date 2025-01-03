@@ -5,9 +5,9 @@ This repository contains assignments for the Coursera course. Each assignment fo
 ## Table of Contents
 
 - [Overview](https://github.com/KachhadiyaAbhishek/coursera-assignment/blob/master/README.md#overview)
-- How to Use
-- Assignment Details
-- Technologies Used
+- [How to Use](https://github.com/KachhadiyaAbhishek/coursera-assignment?tab=readme-ov-file#how-to-use)
+- [Assignment Details](https://github.com/KachhadiyaAbhishek/coursera-assignment?tab=readme-ov-file#assignment-details)
+- [Technologies Used](https://github.com/KachhadiyaAbhishek/coursera-assignment?tab=readme-ov-file#technologies-used)
 
 ## Overview
 
