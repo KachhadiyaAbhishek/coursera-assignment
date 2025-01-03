@@ -4,7 +4,7 @@ This repository contains assignments for the Coursera course. Each assignment fo
 
 ## Table of Contents
 
-- Overview <https://github.com/KachhadiyaAbhishek/coursera-assignment/blob/master/README.md#overview>
+- [Overview]
 - How to Use
 - Assignment Details
 - Technologies Used
